@@ -191,9 +191,9 @@ TheChecker, ChatChamp. Столкнулся с масштабированием 
 
 В следствии изменения некоторые виджеты были скрыты. Есть возможность их создать и ими воспользоваться по ссылке:
 
-https://app.getwoohoo.com/#add/gift
-https://app.getwoohoo.com/#add/coupon
-https://app.getwoohoo.com/#add/slot
+- https://app.getwoohoo.com/#add/gift
+- https://app.getwoohoo.com/#add/coupon
+- https://app.getwoohoo.com/#add/slot
 
 Не все функции этих "игр" остались рабочими, и какие-то элементы в редакторе не работают.
 
