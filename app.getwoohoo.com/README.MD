@@ -88,7 +88,7 @@ https://app.getwoohoo.com <br />
   <img src="./images/widget/hidden/gift.png" height="200" />    
 </details>
 
-Из этих шести игр 5 были сделаны мной, один из них сделал Мехул - это fullwheel.
+Из этих шести игр пять были сделаны мной, а одну из них скопировал Мехул на основе spinthewheel - это fullwheel.
 
 Мной разрабатывался один из вариантов виджета, который не вышел в прод - scratch.
 
