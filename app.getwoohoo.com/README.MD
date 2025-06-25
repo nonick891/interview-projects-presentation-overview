@@ -141,6 +141,8 @@ C декабря 2019 по август 2020 я был занят разрабо
 - coupon;
 - slot.
 
+[//]: # (@todo: make link to removed widgets)
+
 <details>
   <summary>coupon, gift, slot</summary>
   <img src="./images/widget/hidden/coupon.png" height="200" alt="coupon" />
