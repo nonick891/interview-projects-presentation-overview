@@ -280,6 +280,7 @@ wheel была приостановлена.
 - https://app.getwoohoo.com/#add/gift
 - https://app.getwoohoo.com/#add/coupon
 - https://app.getwoohoo.com/#add/slot
+- https://app.getwoohoo.com/#add/wheel
 
 Инструкция по созданию:
 1. Войти на сайт app.getwoohoo.com под своим логином или авторизоваться через Shopify.
