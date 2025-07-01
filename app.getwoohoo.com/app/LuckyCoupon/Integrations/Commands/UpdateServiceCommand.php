@@ -86,6 +86,7 @@ class UpdateServiceCommand extends BaseCommand
 		$service = strtolower($serviceData['service']);
 
 		$serviceData = $this->_unsetData($serviceData, $service);
+
 		if (!$this->{$service . 'Repo'}) return ['service' => false];
 
 		return [
