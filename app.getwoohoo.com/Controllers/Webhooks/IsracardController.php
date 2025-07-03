@@ -3,7 +3,6 @@
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Integration\Isracard\Commands\UpdateUserIsracardSubscriptionCommand;
-use Log;
 use LuckyCoupon\IsracardSubscriptions\Commands\GetIsracardPaymentResultCommand;
 use LuckyCoupon\Users\Commands\GetUserByIsracardSubscriptionCommand;
 
@@ -20,8 +19,6 @@ class IsracardController extends Controller
 	public function subscription(Request $request)
 	{
 		$variables = $request->all();
-		
-//		Log::error(print_r($variables, true));
 		
 		if ($variables['notify_type'])
 		{
