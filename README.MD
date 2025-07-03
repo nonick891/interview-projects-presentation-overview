@@ -207,8 +207,8 @@ API. Лиран решил отключить эту интеграцию. Бы�
 
 <details>
   <summary>spinthewheel, reveal, fullwheel</summary>
-  <img src="app.getwoohoo.com/images/widget/spinthewheel.png" height="200" alt="spinthewheel" />
-  <img src="app.getwoohoo.com/images/widget/reveal.png" height="200" alt="reveal" />
+  <img src="app.getwoohoo.com/images/widget/spinthewheel.png" height="200" alt="spinthewheel" />&nbsp;
+  <img src="app.getwoohoo.com/images/widget/reveal.png" height="200" alt="reveal" />&nbsp;
   <img src="app.getwoohoo.com/images/widget/fullwheel.png" height="200" alt="fullwheel" />    
 </details>
 
@@ -222,9 +222,9 @@ API. Лиран решил отключить эту интеграцию. Бы�
 
 <details>
   <summary>coupon, gift, slot</summary>
-  <img src="app.getwoohoo.com/images/widget/hidden/coupon.png" height="200" alt="coupon" />
-  <img src="app.getwoohoo.com/images/widget/hidden/slot.png" height="200" alt="slot" />
-  <img src="app.getwoohoo.com/images/widget/hidden/gift.png" height="200" alt="gift" />    
+  <img src="app.getwoohoo.com/images/widget/hidden/coupon.png" height="200" alt="coupon" />&nbsp;
+  <img src="app.getwoohoo.com/images/widget/hidden/slot.png" height="200" alt="slot" />&nbsp;
+  <img src="app.getwoohoo.com/images/widget/hidden/gift.png" height="200" alt="gift" />
 </details>
 
 Из этих семи "игр" шесть были сделаны мной, fullwheel скопирован Мехулом на основе spinthewheel.
