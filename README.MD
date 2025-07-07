@@ -1,10 +1,12 @@
 
 
-Я являлся главным разработчиком [https://app.getwoohoo.com][app.getwoohoo.com] с 2017 по 2025 год.
-Весь нижеописанный функционал был сделан мной, кроме исключений, которые я описал в разделе
-[Детали][Детали]. Часть функционала, которые реализованы не мной, встречается по ходу
-текста и явно обозначены, например, в разделах [Варианты виджета][Варианты виджета], [Frontend][Frontend].
-С июня по ноябрь 2019 разработка couponzone.app. C декабря 2019 по август 2020 разработка hype.getwoohoo.com.
+Я закладывал проект и являлся главным разработчиком [https://app.getwoohoo.com][app.getwoohoo.com] 
+с 2017 по 2025 год. Весь нижеописанный функционал был сделан мной, кроме исключений, 
+которые я описал в разделе [Детали][Детали]. Часть функционала, которые реализованы не мной,
+встречается по ходу текста и явно обозначены, например, в разделах [Варианты виджета][Варианты виджета],
+[Frontend][Frontend]. Поимённая статистика [изменений][Список разработчиков] по 
+количеству коммитов. С июня по ноябрь 2019 разработка couponzone.app. 
+C декабря 2019 по август 2020 разработка hype.getwoohoo.com.
 
 <details>
     <summary>Моя статистика:</summary>
@@ -34,3 +36,4 @@
 [Детали]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#детали
 [Варианты виджета]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#варианты-виджета
 [Frontend]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#frontend
+[Список разработчиков]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#список-разработчиков
