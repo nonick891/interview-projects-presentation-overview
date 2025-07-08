@@ -5,30 +5,32 @@
 которые я описал в разделе [Детали][Детали]. Часть функционала, которые реализованы не мной,
 встречается по ходу текста и явно обозначены, например, в разделах [Варианты виджета][Варианты виджета],
 [Frontend][Frontend]. Поимённая статистика [изменений][Список разработчиков] по 
-количеству коммитов. С июня по ноябрь 2019 разработка couponzone.app. 
-C декабря 2019 по август 2020 разработка hype.getwoohoo.com.
+количеству коммитов. С июня по ноябрь 2019 - разработка couponzone.app. 
+С декабря 2019 по август 2020 - разработка hype.getwoohoo.com.
 
 <details>
     <summary>Моя статистика:</summary>
-    &mdash; 3730 коммитов;<br />
-    &mdash; 11 953 часов;<br />
-    &mdash; ~1500 задач.<br />
+    &mdash; ~4500 коммитов;<br />
+    &mdash; ~12 000 отработанных часов;<br />
+    &mdash; >1500 закрытых задач.<br />
 </details>
 
 <details>
     <summary>запомнившиеся задачи app.getwoohoo.com</summary>
     &mdash; оптимизация системы под нагрузку; <br />
-    &mdash; профилирование базы, javascript кода; <br />
-    &mdash; настройки инфрастуктуры серверов, nginx, Envoyer, Cloudflare; <br />
+    &mdash; настройки инфрастуктуры серверов, php, mysql, nginx, Envoyer, Cloudflare; <br />
     &mdash; создание редактора виджета; <br />
-    &mdash; противостоянию атак с целью взлома, засорения данных; <br />
+    &mdash; профилирование MySQL базы; <br />
+    &mdash; использование Redis pipeline; <br />
+    &mdash; профилирование javascript кода с devtools; <br />
     &mdash; написания интеграций для отдельных клиентов; <br />
-    &mdash; интеграции покупки отдельных пакетов планов через Shopify; <br />
+    &mdash; интеграции покупки годовых планов через Shopify; <br />
+    &mdash; противостояние атак с целью взлома, засорения данными; <br />
     &mdash; добавление Shopify расширения. <br />
 </details>
 
 <details>
-    <summary>интегрированных API</summary>
+    <summary>интегрированные API</summary>
     SendGrid, Shopify, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, Cloudflare, TheChecker, ChatChamp.
 </details>
 
