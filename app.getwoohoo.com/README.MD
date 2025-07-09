@@ -224,7 +224,7 @@ API. Лиран решил отключить эту интеграцию. Бы�
 </details>
 
 <details>
-    <summary>Настройка купонов</summary>
+    <summary>Настройка купонов(доступно Shopify пользователям)</summary>
     <img src="images/editor/coupons-list.png" height="250" alt="настройка купонов">  
     <img src="images/editor/coupons-form-1.png" height="250" alt="форма настройки Shopify купонов">&nbsp;
     <img src="images/editor/coupon-form-2.png" height="250" alt="форма настройки Shopify купонов">&nbsp;
