@@ -1,12 +1,18 @@
 
-
+### app.getwoohoo.com
 Я закладывал проект и являлся главным разработчиком [https://app.getwoohoo.com][app.getwoohoo.com] 
 с 2017 по 2025 год. Весь функционал был сделан мной, кроме исключений, которые я описал
 в разделе [Детали][Детали]. Часть функционала, который реализован не мной,
 встречается по ходу текста и явно обозначены, например, в разделах [Варианты виджета][Варианты виджета],
 [Frontend][Frontend]. Поимённая статистика [изменений][Список разработчиков] по 
-количеству коммитов. С июня по ноябрь 2019 - разработка couponzone.app. 
-С декабря 2019 по август 2020 - разработка hype.getwoohoo.com.
+количеству коммитов.
+
+### couponzone.app
+Основная разработка с июня по ноябрь 2019. Был продан владельцем.
+
+### hype.getwoohoo.com
+Основная разработка с декабря 2019 по август 2020. Был закрыт за неимением ресурсов на
+его содержание и развитие.
 
 <details>
     <summary>Моя статистика:</summary>
@@ -33,6 +39,20 @@
     <summary>интегрированные API</summary>
     SendGrid, Shopify, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, Cloudflare, TheChecker, ChatChamp.
 </details>
+
+### Репозиторий
+
+Некоторые пакеты у меня на [github]
+- [js-class-parser] - пакет для dependency injection container;
+- [css-vars-extractor] - экстрактор переменных из файлов стилей;
+- [shadow-dom] - класс-обёртка для работы с Shadow dom;
+- [html-manipulator] - обёртка по работе с преобразованием объектов в HTML элементы.
+
+[github]: https://github.com/nonick891
+[js-class-parser]: https://github.com/nonick891/js-class-parser
+[css-vars-extractor]: https://github.com/nonick891/css-vars-extractor
+[shadow-dom]: https://github.com/nonick891/shadow-dom
+[html-manipulator]: https://github.com/nonick891/html-manipulator
 
 [app.getwoohoo.com]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com
 [Детали]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#детали
