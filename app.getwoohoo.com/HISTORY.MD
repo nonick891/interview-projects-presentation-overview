@@ -28,15 +28,16 @@
 
 Есть возможность их создать по ссылке:
 
-- https://app.getwoohoo.com/#add/gift
-- https://app.getwoohoo.com/#add/coupon
-- https://app.getwoohoo.com/#add/slot
-- https://app.getwoohoo.com/#add/wheel
-
 Инструкция по созданию:
 1. Войти на сайт app.getwoohoo.com под своим логином или авторизоваться через Shopify.
 2. Ссылку выше вставить в строку браузера;
 3. Нажать на Enter;
 4. Нажать на кнопку "Перезагрузить страницу" (<img src="images/reload_button.png" width="15" />) в браузере.
+
+Ссылки на скрытые виджеты:
+- https://app.getwoohoo.com/#add/gift
+- https://app.getwoohoo.com/#add/coupon
+- https://app.getwoohoo.com/#add/slot
+- https://app.getwoohoo.com/#add/wheel
 
 Некоторые элементы интерфейса, неподдерживаемых виджетов, в редакторе могут не работать.

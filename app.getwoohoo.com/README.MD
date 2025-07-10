@@ -331,4 +331,4 @@ PHP 5.6 было обновлено на PHP 7.2.
 
 [ShopifyWoohoo]: https://apps.shopify.com/woohoo
 [WoohooRegister]: https://app.getwoohoo.com/register
-[HistoryWidgets]: https://github.com
+[HistoryWidgets]: https://github.com/nonick891/interview-projects-presentation-overview/blob/main/app.getwoohoo.com/HISTORY.MD
