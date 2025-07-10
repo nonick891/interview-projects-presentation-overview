@@ -14,8 +14,10 @@
 Основная разработка с декабря 2019 по август 2020. Был закрыт за неимением ресурсов на
 его содержание и развитие.
 
+<hr />
+
 <details>
-    <summary>Моя статистика:</summary>
+    <summary>Моя статистика проектов</summary>
     &mdash; ~4500 коммитов;<br />
     &mdash; ~12 000 отработанных часов;<br />
     &mdash; >1500 закрытых задач.<br />
@@ -39,20 +41,6 @@
     <summary>интегрированные API</summary>
     SendGrid, Shopify, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, Cloudflare, TheChecker, ChatChamp.
 </details>
-
-### Репозиторий
-
-Некоторые пакеты у меня на [github]
-- [js-class-parser] - пакет для dependency injection container;
-- [css-vars-extractor] - экстрактор переменных из файлов стилей;
-- [shadow-dom] - класс-обёртка для работы с Shadow dom;
-- [html-manipulator] - обёртка по работе с преобразованием объектов в HTML элементы.
-
-[github]: https://github.com/nonick891
-[js-class-parser]: https://github.com/nonick891/js-class-parser
-[css-vars-extractor]: https://github.com/nonick891/css-vars-extractor
-[shadow-dom]: https://github.com/nonick891/shadow-dom
-[html-manipulator]: https://github.com/nonick891/html-manipulator
 
 [app.getwoohoo.com]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com
 [Детали]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#детали
