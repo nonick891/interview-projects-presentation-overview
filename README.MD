@@ -5,7 +5,7 @@
 
 Разработка и поддержка с 2017 по 2025 год. Работает.
 
-Стек: Laravel 5.4, php 7, Mysql 5.7, Redis, nginx, webpack, Vue 2, vuex, vue router, bootstrap.  
+Стек: `Laravel 5.4`, `php 7`, `Mysql 5.7`, `Redis`, `nginx`, `webpack`, `SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 3`.  
 
 Файл с [описанием][app.getwoohoo.com] и историей развития проекта.
 
@@ -18,12 +18,12 @@
 ### couponzone.app
 Разработка с июня по ноябрь 2019. Был продан владельцем.  
 
-Стек: Laravel 5.8, osiset/laravel-shopify 7, php 7.1, Mysql 5.7, Redis, webpack 4, Vue 2, vuex, vue router, bootstrap 4, Shopify/polaris.
+Стек: `Laravel 5.8`, `osiset/laravel-shopify 7`, `php 7.1`, `Mysql 5.7`, `Redis`, `webpack 4`, `SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 4`, `Shopify/polaris`.
 
 ### hype.getwoohoo.com
 Разработка с декабря 2019 по август 2020. Был закрыт за неимением ресурсов.
 
-Стек: Laravel 6.18, osiset/laravel-shopify 10.3, php 7.2, Mysql 5.7, Redis, webpack 4, Vue 2, vuex, vue router, bootstrap 4, Shopify/polaris.
+Стек: `Laravel 6.18`, `osiset/laravel-shopify 10.3`, `php 7.2`, `Mysql 5.7`, `Redis`, `webpack 4`, `SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 4`, `Shopify/polaris`.
 
 <hr />
 
