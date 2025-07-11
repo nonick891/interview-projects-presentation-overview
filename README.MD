@@ -10,7 +10,7 @@
 Файл с [описанием][app.getwoohoo.com] и историей развития проекта.
 
 Весь функционал был сделан мной, кроме исключений, которые я описал
-в разделе [Детали][Детали]. Часть функционала, который реализован не мной,
+в разделе [Детали][Детали]. Часть работ, которые реализованы не мной,
 встречается по ходу текста и явно обозначены, например, в разделах [Варианты виджета][Варианты виджета],
 [Frontend][Frontend]. Поимённая статистика [изменений][Список разработчиков] по 
 количеству коммитов.
@@ -50,8 +50,8 @@ Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, 
     &mdash; добавление Shopify расширения. <br />
 
 
-[app.getwoohoo.com]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com
-[Детали]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#детали
-[Варианты виджета]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#варианты-виджета
-[Frontend]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#frontend
-[Список разработчиков]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#список-разработчиков
+[app.getwoohoo.com]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com
+[Детали]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#детали
+[Варианты виджета]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#варианты-виджета
+[Frontend]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#frontend
+[Список разработчиков]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#список-разработчиков
