@@ -46,7 +46,7 @@ Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, 
     &mdash; профилирование javascript кода с devtools; <br />
     &mdash; написания интеграций для отдельных клиентов; <br />
     &mdash; интеграции покупки годовых планов через Shopify; <br />
-    &mdash; противостояние сетевым атакам на открытые endpoint API; <br />
+    &mdash; защита открытых endpoint API; <br />
     &mdash; добавление Shopify расширения. <br />
 
 
