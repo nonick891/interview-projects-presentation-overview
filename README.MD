@@ -3,7 +3,7 @@
 
 ### app.getwoohoo.com
 
-Разработка с 2017 по 2025 год. Работает.
+Разработка и поддержка с 2017 по 2025 год. Работает.
 
 Стек: Laravel 5.4, php 7, Mysql 5.7, Redis, nginx, webpack, Vue 2, vuex, vue router, bootstrap.  
 
