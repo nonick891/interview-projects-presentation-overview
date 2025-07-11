@@ -27,6 +27,16 @@
 
 <hr />
 
+Моя статистика проектов:<br />
+&mdash; ~4500 коммитов;<br />
+&mdash; ~12 000 отработанных часов;<br />
+&mdash; >1500 закрытых задач.<br />
+
+Интегрированные API:
+Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, TheChecker, ChatChamp.
+
+<hr />
+
 Запомнившиеся задачи app.getwoohoo.com:  
     &mdash; оптимизация системы под нагрузку; <br />
     &mdash; настройки инфрастуктуры серверов, php, mysql, nginx, Envoyer, Cloudflare; <br />
@@ -39,13 +49,6 @@
     &mdash; противостояние атак с целью взлома, засорения данными; <br />
     &mdash; добавление Shopify расширения. <br />
 
-Моя статистика проектов:  
-&mdash; ~4500 коммитов;<br />
-&mdash; ~12 000 отработанных часов;<br />
-&mdash; >1500 закрытых задач.<br />
-
-Интегрированные API:
-    Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, TheChecker, ChatChamp.
 
 [app.getwoohoo.com]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com
 [Детали]: https://github.com/nonick891/interview-projects-presentation-overview/tree/main/app.getwoohoo.com#детали
