@@ -1,6 +1,6 @@
 
 Исторический раздел, где показано как приложение выглядело в самом начале
-и по мере развития как app.getwoohoo.com выглядел.
+и по мере развития приложения app.getwoohoo.com.
 
 ### Старый редактор
 
@@ -19,11 +19,9 @@
     <img src="images/history/dashboard_preview_game.png" width="400" alt="dashboard game preview" />
 </details>
 
+Изменение первой версии вёрстки на примере страницы "игры".
 <details>
-    <summary>
-        Плавное изменение от первой версии вёрстки ко второй на примере страницы "игры".
-        Шапка приложения уже умеет другой вид.
-    </summary>
+    <summary>Страница игры</summary>
     <img src="images/history/games/dashboard_first_version.png" height="250" alt="first version" />&nbsp;
     <img src="images/history/games/list_of_games.png" height="250" alt="first version transform to second" />&nbsp;
     <img src="images/history/games/old_dashboard.PNG" height="250" alt="second version" />
