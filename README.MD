@@ -8,6 +8,8 @@
 Стек: `Laravel 5.4`, `php 7`, `Mysql 5.7`, `Redis`, `nginx`, `webpack`,<br />
 `SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 3`.  
 
+Ссылка в магазине приложений Shopify - https://apps.shopify.com/woohoo
+
 Файл с [описанием][app.getwoohoo.com] и историей развития проекта.
 
 Хотя проект закладывался мной, позднее присоединялись программисты, которые тоже работали
@@ -16,8 +18,6 @@
 Ещё часть работ, которые реализованы не мной, встречается по ходу текста и явно обозначены,
 например, в разделах [Варианты виджета][Варианты виджета], [Frontend][Frontend].
 Поимённая статистика [изменений][Список разработчиков] по количеству коммитов.
-
-Ссылка в магазине приложений Shopify - https://apps.shopify.com/woohoo
 
 ### couponzone.app
 Разработка с июня по ноябрь 2019. Был продан владельцем.  
@@ -35,28 +35,26 @@
 
 <hr />
 
-Моя статистика проектов:<br />
-&mdash; ~4500 коммитов;<br />
-&mdash; ~12 000 отработанных часов;<br />
-&mdash; >1500 закрытых задач.<br />
-
-Интегрированные API:
-Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, TheChecker, ChatChamp.
-
-<hr />
-
 Запомнившиеся задачи app.getwoohoo.com:  
     &mdash; оптимизация системы под нагрузку с 5000 сайтов; <br />
-    &mdash; профилирование и оптимизация MySQL базы >400Гб; <br />
+    &mdash; профилирование и оптимизация MySQL запросов для БД >400Гб; <br />
     &mdash; оптимизация сетевых взаимодействий с Redis pipeline; <br />
     &mdash; создание редактора виджета; <br />
     &mdash; настройки инфрастуктуры серверов, php, mysql, nginx, Envoyer, Cloudflare; <br />
     &mdash; профилирование javascript кода с devtools; <br />
-    &mdash; написания интеграций для отдельных клиентов; <br />
     &mdash; интеграции покупки годовых планов через Shopify; <br />
-    &mdash; защита открытых endpoint API; <br />
+    &mdash; безопасность открытых endpoint API; <br />
     &mdash; добавление Shopify расширения. <br />
 
+<hr />
+
+Интегрированные API:
+Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, TheChecker, ChatChamp.
+
+Моя статистика проектов:<br />
+&mdash; ~4500 коммитов;<br />
+&mdash; ~12 000 отработанных часов;<br />
+&mdash; >1500 закрытых задач.<br />
 
 [app.getwoohoo.com]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com
 [Детали]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#детали
