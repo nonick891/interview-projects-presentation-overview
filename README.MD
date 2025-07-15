@@ -1,63 +1,73 @@
 
-Я закладывал и являлся главным разработчиком проектов
+### Ключевые проекты (Laravel, Vue.js, Shopify ecosystem)
+**Ведущий Full-Stack разработчик и архитектор | 2017–2025**
 
-### app.getwoohoo.com
+**Woohoo Platform (app.getwoohoo.com)**  
+*SaaS для геймификации маркетинга в Shopify*
+- **Полный цикл разработки:** От проектирования до production-поддержки (8+ лет)
+- **Масштабирование:** Обеспечил обработку трафика для **5000+ магазинов** и **2M+ уникальных пользователей/месяц**
+- **Ключевые достижения:**
+    - Оптимизировал нагрузку на серверы: снижение CPU с **30-60% до 0.5-2%** через:
+        - Профилирование и рефакторинг SQL-запросов
+        - Внедрение Redis для кеширования и очередей
+        - Переноса endpoint на nginx
+    - снижение отдаваемого трафика **18 ГБ/сутки до 1 ГБ/сутки** через:
+        - Настройку CDN и балансировки нагрузки
+    - Разработал **DI-контейнер для браузерного JS**, повысив модульность фронтенда
+    - Настроил CD (Envoyer) и инфраструктуру на DigitalOcean
+    - Интеграция с Shopify Billing, Shopify Webhooks
 
-Разработка и поддержка с 2017 по 2025 год. Работает.
+**Hype (hype.getwoohoo.com)**  
+*Приложение для Shopify, отображающее социальное доказательство (статистику товара)*
+- Разработал с нуля за 8 месяцев (2019-2020)
+- Реализовал отображение статистики:
+    - Покупки товара
+    - Добавления в корзину
+    - Просмотры товара
+- Интеграция с Shopify Billing, Shopify Webhooks
 
-Стек: `Laravel 5.4`, `php 7`, `Mysql 5.7`, `Redis`, `nginx`, `webpack`,<br />
-`SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 3`.  
+**Promotions.app**  
+*Геймифицированная система купонов с достижениями*
+- Полный цикл разработки (2019)
+- Реализовал:
+    - Редактор виджетов с настраиваемыми достижениями
+    - Систему скидок, привязанную к выполнению целей
+    - Кастомизацию внешнего вида панели
+    - Динамическое отображение на сайтах клиентов
+- Продан клиенту, дальнейшая поддержка не осуществлялась
+- **Технологии:** Laravel, Vue.js, Shopify API
 
-Ссылка в магазине приложений Shopify - https://apps.shopify.com/woohoo
+--- 
 
-Файл с [описанием][app.getwoohoo.com] и историей развития проекта.
+### Техническая экспертиза
+**Backend:**  
+`Laravel` (Expert) | `PHP` | `MySQL` (оптимизация больших БД) | `Redis` | `REST API`  
+**Frontend:**  
+`Vue.js` (Vuex, Vue Router) | `JavaScript` (собственный DI-контейнер) | `SPA` | `Webpack` | `SASS`  
+**DevOps:**  
+`DigitalOcean` | `Envoyer` (CD) | `Nginx` | `Load Balancing`  
+**Тестирование:**  
+`Unit Testing` (PHPUnit) | `Load Testing` (Apache jMeter)  
+**Интеграции:**  
+`Shopify API` (App Embedded, Billing, Webhooks) | `SendGrid` | `Klaviyo` | `Payment Gateways`
 
-Хотя проект закладывался мной, позднее присоединялись программисты, которые тоже работали
-над проектом, их вклад я подробно описал в разделе [Детали][Детали].
+---
 
-Ещё часть работ, которые реализованы не мной, встречается по ходу текста и явно обозначены,
-например, в разделах [Варианты виджета][Варианты виджета], [Frontend][Frontend].
-Поимённая статистика [изменений][Список разработчиков] по количеству коммитов.
+### Ключевые достижения
+1. **Масштабирование высоконагруженных систем:**
+    - Оптимизация инфраструктуры для 5000+ активных магазинов
+    - Снижение нагрузки на серверах БД с 30-60% до **0.5-2%** через:
+        - Рефакторинг запросов к MySQL
+        - Внедрение Redis pipeline
+        - Кеширование частотных запросов
+2. **Full-cycle разработка:**
+    - 3 запущенных SaaS-продукта в Shopify ecosystem
+    - Поддержка core-продукта **8+ лет** с постоянным улучшением архитектуры
+3. **Инновации в frontend:**
+    - Разработка модульного DI-контейнера для браузерного JavaScript
+    - Создание визуального редактора виджетов (Vue.js)
+4. **DevOps-экспертиза:**
+    - Настройка отказоустойчивой инфраструктуры (DigitalOcean)
+    - Автоматизация деплоев через Envoyer
+    - Конфигурация Cloudflare для безопасности и кеширования
 
-### couponzone.app
-Разработка с июня по ноябрь 2019. Был продан владельцем.  
-
-Стек: `Laravel 5.8`, `osiset/laravel-shopify 7`, `php 7.1`, `Mysql 5.7`, `Redis`,<br />
-`webpack 4`, `SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 4`, `Shopify/polaris`.
-
-### hype.getwoohoo.com
-Разработка с декабря 2019 по август 2020. Был закрыт за неимением ресурсов.
-
-Стек: `Laravel 6.18`, `osiset/laravel-shopify 10.3`, `php 7.2`, `Mysql 5.7`, `Redis`,<br />
-`webpack 4`, `SASS`, `Vue 2`, `vuex`, `vue router`, `bootstrap 4`, `Shopify/polaris`.
-
-Ссылка в магазине приложений Shopify - https://apps.shopify.com/promotions-1
-
-<hr />
-
-Запомнившиеся задачи app.getwoohoo.com:  
-    &mdash; оптимизация системы под нагрузку с 5000 сайтов; <br />
-    &mdash; профилирование и оптимизация MySQL запросов для БД >400Гб; <br />
-    &mdash; оптимизация сетевых взаимодействий с Redis pipeline; <br />
-    &mdash; создание редактора виджета; <br />
-    &mdash; настройки инфрастуктуры серверов, php, mysql, nginx, Envoyer, Cloudflare; <br />
-    &mdash; профилирование javascript кода с devtools; <br />
-    &mdash; интеграции покупки годовых планов через Shopify; <br />
-    &mdash; безопасность открытых endpoint API; <br />
-    &mdash; добавление Shopify расширения. <br />
-
-<hr />
-
-Интегрированные API:
-Shopify, SendGrid, Mailchimp, Klaviyo, Omnisend, Isracard, Fingerprint, IP-API, TheChecker, ChatChamp.
-
-Моя статистика проектов:<br />
-&mdash; ~4500 коммитов;<br />
-&mdash; ~12 000 отработанных часов;<br />
-&mdash; >1500 закрытых задач.<br />
-
-[app.getwoohoo.com]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com
-[Детали]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#детали
-[Варианты виджета]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#варианты-виджета
-[Frontend]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#frontend
-[Список разработчиков]: https://github.com/nonick891/nonick891/tree/main/app.getwoohoo.com#список-разработчиков
