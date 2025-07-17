@@ -1,4 +1,39 @@
 
+
+### Техническая экспертиза
+**Backend:**  
+`Laravel` (Expert) | `PHP` | `MySQL` (оптимизация больших БД) | `Redis` | `REST API`  
+**Frontend:**  
+`Vue.js` (Vuex, Vue Router) | `JavaScript` (собственный DI-контейнер) | `SPA` | `Webpack` | `SASS`  
+**DevOps:**  
+`DigitalOcean` | `Envoyer` (CD) | `Nginx` | `Load Balancing`  
+**Тестирование:**  
+`Unit Testing` (PHPUnit) | `Load Testing` (Apache jMeter)  
+**Интеграции:**  
+`Shopify API` (App Embedded, Billing, Webhooks) | `SendGrid` | `Klaviyo` | `Payment Gateways`
+
+---
+
+### Ключевые достижения
+1. **Масштабирование высоконагруженных систем:**
+    - Оптимизация инфраструктуры для 5000+ активных магазинов
+    - Снижение нагрузки на серверах БД с 30-60% до **0.5-2%** через:
+        - Рефакторинг запросов к MySQL
+        - Внедрение Redis pipeline
+        - Кеширование частотных запросов
+2. **Full-cycle разработка:**
+    - 3 запущенных SaaS-продукта в Shopify ecosystem
+    - Поддержка core-продукта **8+ лет** с постоянным улучшением архитектуры
+3. **Инновации в frontend:**
+    - Разработка модульного DI-контейнера для браузерного JavaScript
+    - Создание визуального редактора виджетов (Vue.js)
+4. **DevOps-экспертиза:**
+    - Настройка отказоустойчивой инфраструктуры (DigitalOcean)
+    - Автоматизация деплоев через Envoyer
+    - Конфигурация Cloudflare для безопасности и кеширования
+
+--- 
+
 ### Ключевые проекты (Laravel, Vue.js, Shopify ecosystem)
 **Ведущий Full-Stack разработчик и архитектор | 2017–2025**
 
@@ -41,38 +76,4 @@
     - Динамическое отображение на сайтах клиентов
 - Продан клиенту, дальнейшая поддержка не осуществлялась
 - **Технологии:** Laravel, Vue.js, Laravel-Shopify
-
---- 
-
-### Техническая экспертиза
-**Backend:**  
-`Laravel` (Expert) | `PHP` | `MySQL` (оптимизация больших БД) | `Redis` | `REST API`  
-**Frontend:**  
-`Vue.js` (Vuex, Vue Router) | `JavaScript` (собственный DI-контейнер) | `SPA` | `Webpack` | `SASS`  
-**DevOps:**  
-`DigitalOcean` | `Envoyer` (CD) | `Nginx` | `Load Balancing`  
-**Тестирование:**  
-`Unit Testing` (PHPUnit) | `Load Testing` (Apache jMeter)  
-**Интеграции:**  
-`Shopify API` (App Embedded, Billing, Webhooks) | `SendGrid` | `Klaviyo` | `Payment Gateways`
-
----
-
-### Ключевые достижения
-1. **Масштабирование высоконагруженных систем:**
-    - Оптимизация инфраструктуры для 5000+ активных магазинов
-    - Снижение нагрузки на серверах БД с 30-60% до **0.5-2%** через:
-        - Рефакторинг запросов к MySQL
-        - Внедрение Redis pipeline
-        - Кеширование частотных запросов
-2. **Full-cycle разработка:**
-    - 3 запущенных SaaS-продукта в Shopify ecosystem
-    - Поддержка core-продукта **8+ лет** с постоянным улучшением архитектуры
-3. **Инновации в frontend:**
-    - Разработка модульного DI-контейнера для браузерного JavaScript
-    - Создание визуального редактора виджетов (Vue.js)
-4. **DevOps-экспертиза:**
-    - Настройка отказоустойчивой инфраструктуры (DigitalOcean)
-    - Автоматизация деплоев через Envoyer
-    - Конфигурация Cloudflare для безопасности и кеширования
 
