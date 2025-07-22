@@ -66,7 +66,7 @@
 - Интеграция с Shopify Billing, Shopify Webhooks
 - **Технологии:** Laravel, Vue.js, Laravel-Shopify
 
-**Promotions.app**  
+**copuonzone.app**  
 *Геймифицированная система достижений с купонами для Shopify*
 - Полный цикл разработки за 6 месяцев (2019)
 - Реализовал:
